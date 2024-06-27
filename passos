@@ -1,0 +1,28 @@
+
+
+- carregar e prepara os dados
+
+	- carregar a base de dados IRIS
+	- dividir os dados em treinamento e testes
+	- normalizar os dados se necessário
+
+- implementação do perceptron
+
+	- inicializar os pesos e bias
+	- treinar o modelo ajustando os pesos de acordo com a regra de atualização do perceptron.
+	- avaliar o modelo nos dados de teste.
+
+
+- escolher outra base de dados
+
+	- repetir os passos acima com a base de dados
+
+- comparação e validação
+	- implementar a comparação com uma ferramenta
+ 	- utilizar metodos de validação (como validação cruzada).
+
+- escraver o relatório
+
+	- incluir todos os detalhes dos experimentos, resultados e comparações.
+
+

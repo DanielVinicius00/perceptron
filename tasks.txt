@@ -1,0 +1,22 @@
+- base de dados inicial IRIS
+
+- Escolher outra que não seja a base IRIS
+
+- Peculiaridades
+  - Verificar se é Numéricos ou Categóricos
+  - Se a base for numérica pode ser necessário normalizar os atributos para que o treinamento seja mais eficiente
+
+- Realizar experimentos
+	- taxa de acertos ou tempo de processamentos
+
+Relatório
+
+	- descrição da base de dados
+	- implementação do algoritmo
+	- resultados dos experimentos
+
+Nota Extra
+
+	- Ferramenta de comparação
+	- metodo de validação
+	
