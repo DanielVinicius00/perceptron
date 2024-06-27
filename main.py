@@ -5,8 +5,8 @@ from sklearn.model_selection import train_test_split, cross_val_score
 from sklearn.preprocessing import StandardScaler
 from sklearn.linear_model import Perceptron as SKPerceptron
 from sklearn.metrics import accuracy_score
-import numpy as np
 import pandas as pd
+import numpy as np
 
 # Função para carregar um algoritmo de um arquivo Python
 def carregar_algoritmo(nome_arquivo):
